@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1586516279 source:c:\users\volod\desktop\СИ проекты\book\book.cpp
+	"book.h"
+
+1586516726 c:\users\volod\desktop\СИ проекты\book\book.h
+	<iostream>
+	<string>
+
+1586470758 source:c:\users\volod\desktop\СИ проекты\book\main.cpp
+	<iostream>
+	<string>
+	"book.h"
+
+1583198708 source:f:\Языки программирования 1 курс\Проекты СИ++\book\book.cpp
+	"book.h"
+
+1583197948 f:\Языки программирования 1 курс\Проекты СИ++\book\book.h
+	<iostream>
+	<string>
+
+1583198708 source:f:\Языки программирования 1 курс\Проекты СИ++\book\main.cpp
+	<iostream>
+	<string>
+	"book.h"
+
+1583500224 source:f:\папка\Языки программирования 1 курс\Проекты СИ++\book\main.cpp
+	<iostream>
+	<string>
+	"book.h"
+
+1583500226 f:\папка\Языки программирования 1 курс\Проекты СИ++\book\book.h
+	<iostream>
+	<string>
+
+1583462434 source:f:\папка\Языки программирования 1 курс\Проекты СИ++\book\book.cpp
+	"book.h"
+
